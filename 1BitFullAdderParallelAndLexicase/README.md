@@ -1,1 +1,1 @@
-Implementation of the 1-Bit Full Adder with paralellization and lexicase selection implemented
+# GRAPE: Grammatical Algorithms in Python for Evolution
