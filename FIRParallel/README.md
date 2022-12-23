@@ -1,1 +1,1 @@
-GRAPE code evolving the coefficients for a 4 taps FIR filter.
+# GRAPE: Grammatical Algorithms in Python for Evolution
